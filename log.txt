@@ -1,0 +1,31 @@
+[DEBUG]: [SQL]: SELECT * FROM users WHERE id = '12' LIMIT 1
+[DEBUG]: [SQL]: SELECT * FROM users WHERE 1
+[DEBUG]: [SQL]: SELECT * FROM users WHERE 1
+[DEBUG]: [SQL]: SELECT * FROM users WHERE id = '12' LIMIT 1
+[DEBUG]: [SQL]: UPDATE users SET id = '12', username = 'aa', password = 'aa', email = 'aaa@a.com' WHERE id = '12'
+[DEBUG]: [SQL]: SELECT * FROM users WHERE 1
+[DEBUG]: [NOTICE]: Undefined variable: component_file in file E:\MyProject\MyLibs3\4\libs\core.php on line 349
+[DEBUG]: Component not found - UserController(E:\MyProject\MyLibs3\4\modules\default\controllers\)
+[DEBUG]: [NOTICE]: Undefined variable: component_file in file E:\MyProject\MyLibs3\4\libs\core.php on line 349
+[DEBUG]: Component not found - UserController(E:\MyProject\MyLibs3\4\modules\default\controllers\)
+[DEBUG]: [SQL]: SELECT * FROM users WHERE 1
+[DEBUG]: [SQL]: SELECT * FROM users WHERE 1
+[DEBUG]: [SQL]: SELECT * FROM users WHERE 1
+[DEBUG]: [NOTICE]: Undefined variable: component_file in file E:\MyProject\MyLibs3\4\libs\core.php on line 349
+[DEBUG]: Component not found - DefaultController(E:\MyProject\MyLibs3\4\modules\user\controllers\)
+[DEBUG]: [NOTICE]: Undefined variable: component_file in file E:\MyProject\MyLibs3\4\libs\core.php on line 349
+[DEBUG]: Component not found - DefaultController(E:\MyProject\MyLibs3\4\modules\user\controllers\)
+[DEBUG]: [NOTICE]: Undefined variable: component_file in file E:\MyProject\MyLibs3\4\libs\core.php on line 349
+[DEBUG]: Component not found - DefaultController(E:\MyProject\MyLibs3\4\modules\user\controllers\)
+[DEBUG]: [NOTICE]: Undefined variable: component_file in file E:\MyProject\MyLibs3\4\libs\core.php on line 349
+[DEBUG]: Component not found - DefaultController(E:\MyProject\MyLibs3\4\modules\user\controllers\)
+[DEBUG]: [SQL]: SELECT * FROM users WHERE 1
+[DEBUG]: [SQL]: SELECT * FROM users WHERE 1
+[DEBUG]: [SQL]: SELECT * FROM users WHERE 1
+[DEBUG]: [SQL]: SELECT * FROM users WHERE 1
+[DEBUG]: [SQL]: SELECT * FROM users WHERE 1
+[DEBUG]: [SQL]: SELECT * FROM users WHERE 1
+[DEBUG]: [SQL]: SELECT * FROM users WHERE 1
+[DEBUG]: [SQL]: SELECT * FROM users WHERE 1
+[DEBUG]: [SQL]: SELECT * FROM users WHERE 1
+[DEBUG]: [SQL]: SELECT * FROM users WHERE 1
